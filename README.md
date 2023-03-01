@@ -13,7 +13,7 @@ This repository holds the files submitted for the 1st SO project.
 - up202004724, [Guilherme Sequeira](https://github.com/Cavaleiro132)<br>
 - up202004724, [João Pereira](https://github.com/Cavaleiro132)<br>
 
-## Project grade: N.A./20
+## Project grade: 18/20
 
 ## Disclaimer
 
